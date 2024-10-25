@@ -4,7 +4,7 @@ const app = express(); // Inicia o express
 
 // Rota inicial (home)
 app.get("/", function(req, res) {
-    res.send("<h1>Bem-vindo ao meu novo site modificado!</h1>");
+    res.send("<h1>Bem-vindo ao meu novo site modificado4!</h1>");
 });
 
 
